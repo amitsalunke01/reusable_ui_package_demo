@@ -1,5 +1,4 @@
-//import 'package:flutter/material.dart';
-part of rakuten_ui;
+import 'package:flutter/material.dart';
 
 class AppTitleNormal extends StatelessWidget {
   final String? text;
